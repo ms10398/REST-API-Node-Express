@@ -16,4 +16,4 @@ REST API implementation using Node and Expressjs
 
 - [NodeJS](https://nodejs.org/en/docs/)
 - [ExpressJS](https://expressjs.com/en/4x/api.html)
-- [MongoDB](https://www.mongodb.com/)([Mongoose](mongoosejs.com/docs/)/[connect-mongo](https://www.npmjs.com/package/connect-mongo))
+- [MongoDB](https://www.mongodb.com/)([Mongoose](mongoosejs.com/docs/))
